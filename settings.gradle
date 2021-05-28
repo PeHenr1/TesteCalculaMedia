@@ -1,0 +1,2 @@
+rootProject.name = "TesteCalculaMedia"
+include ':app'
